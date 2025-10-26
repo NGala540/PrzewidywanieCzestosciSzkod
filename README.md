@@ -25,7 +25,7 @@ W ubezpieczeniach system bonus–malus (BMS) to mechanizm dostosowujący wysoko�
 * **VehPower** – moc pojazdu, jako kategoria
 * **VehAge** – wiek pojazdu (w latach)
 * **DrivAge** – wiek kierowcy (w latach; we Francji prawo jazdy można uzyskać od 18 roku życia)
-* **BonusMalus** – współczynnik bonus/malus, w przedziale 50–350 (wartości <100 oznaczają bonus, >100 – malus)
+* **BonusMalus** – współczynnik bonus/malus, w przedziale 50–230 (wartości <100 oznaczają bonus, >100 – malus)
 * **VehBrand** – marka pojazdu (zakodowana kategoria)
 * **VehGas** – rodzaj paliwa (Diesel lub benzyna)
 * **Density** – gęstość zaludnienia (liczba mieszkańców na km²) w mieście, w którym mieszka kierowca
