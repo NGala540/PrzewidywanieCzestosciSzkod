@@ -22,7 +22,7 @@ W ubezpieczeniach system bonus–malus (BMS) to mechanizm dostosowujący wysoko�
 * **ClaimNb** – liczba szkód w okresie ekspozycji
 * **Exposure** – okres ekspozycji
 * **Area** – kod obszaru
-* **VehPower** – moc pojazdu
+* **VehPower** – moc pojazdu, jako kategoria
 * **VehAge** – wiek pojazdu (w latach)
 * **DrivAge** – wiek kierowcy (w latach; we Francji prawo jazdy można uzyskać od 18 roku życia)
 * **BonusMalus** – współczynnik bonus/malus, w przedziale 50–350 (wartości <100 oznaczają bonus, >100 – malus)
